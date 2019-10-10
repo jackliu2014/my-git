@@ -6,6 +6,7 @@
 如果你要有一些资源，希望和我一起，把这个搞起来，很简单，`Fork-修改- Pull Request` 就 ok。
 
 # 新手入门
+- [git图形化展示使用流程](https://www.bootcss.com/p/git-guide/)
 - [为什么开始使用 Git 版本管理，Git VS Svn 有哪些区别？](https://github.com/xirong/my-git/blob/master/why-git.md)
 - [开篇：一篇适合入门学习git的资料汇总](https://github.com/xirong/my-git/blob/master/ixirong.com.md) 本人的拙笔，欢迎吐槽！
 - [Github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) 关于使用 Git 和 Github 的一些技巧汇总，中文版在此[GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
